@@ -22,4 +22,4 @@ Feel free to explore my projects and repositories. I'm always open to collaborat
 
 Let's connect and learn from each other. Happy coding! 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsbarbery&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsbarbery&layout=compact&theme=dark)
