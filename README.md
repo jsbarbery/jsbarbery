@@ -1,4 +1,4 @@
-# Hi, John here! 👋
+# Hi, John here! 
 
 Welcome to my GitHub! Here, you'll find that I have a strong passion for data and its manipulation to uncover interesting insights.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub! Here, you'll find that I have a strong passion for data an
 📝 Documentation and reports on data-driven insights.
 
 # Connect with Me
-LinkedIn: linkedin.com/in/jbarbery98
+LinkedIn: www.linkedin.com/in/jbarbery98
 Email: js_barbery@hotmail.com
 
 Feel free to explore my projects and repositories. I'm always open to collaborations and discussions about data, analytics, and engineering!
