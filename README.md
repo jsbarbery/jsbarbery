@@ -21,3 +21,5 @@ Email: js_barbery@hotmail.com
 Feel free to explore my projects and repositories. I'm always open to collaborations and discussions about data, analytics, and engineering!
 
 Let's connect and learn from each other. Happy coding! 🚀
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsbarbery&layout=compact)
